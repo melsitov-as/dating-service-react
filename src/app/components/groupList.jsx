@@ -1,6 +1,6 @@
 import React from 'react';
 
-const GroupList = () => {
+const GroupList = (props) => {
 	return (
 		<ul class='list-group'>
 			<li className='list-group-item'>An item</li>
